@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\bin\Debug\Prática Jogo de Adivinhação.exe.config
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\bin\Debug\Prática Jogo de Adivinhação.exe
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\bin\Debug\Prática Jogo de Adivinhação.pdb
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\obj\Debug\Prática Jogo de Adivinhação.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\obj\Debug\Prática Jogo de Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\obj\Debug\Prática Jogo de Adivinhação.exe
+C:\Users\vitor\Desktop\Práticas\Prática Jogo de Adivinhação\Prática Jogo de Adivinhação\obj\Debug\Prática Jogo de Adivinhação.pdb
